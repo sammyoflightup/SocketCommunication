@@ -1,4 +1,4 @@
-echo "# SocketCommunication
+# SocketCommunication
 
 This project demonstrates a simple socket communication setup in Python, including a server and a client script.
 
